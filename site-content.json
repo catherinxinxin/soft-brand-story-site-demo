@@ -1,0 +1,326 @@
+{
+  "brand": {
+    "name": "光巢",
+    "latinName": "LUMI NEST",
+    "sinceYear": "2018",
+    "tagline": "让每一份照料，都更贴近成长",
+    "ctaLabel": "加入光巢社群",
+    "ctaTarget": "#membership"
+  },
+  "hero": {
+    "eyebrow": "LUMI NEST / BRAND EXPERIENCE",
+    "titleLine": "从日常出发，",
+    "titleAccent": "到每一次安心选择",
+    "subtitle": "围绕每一个成长阶段，持续探索更轻松、更安心的陪伴方式。"
+  },
+  "nav": [
+    {
+      "label": "产品家族",
+      "target": "#products"
+    },
+    {
+      "label": "安心旅程",
+      "target": "#journey"
+    },
+    {
+      "label": "用户实证",
+      "target": "#proof"
+    },
+    {
+      "label": "光巢一家",
+      "target": "#family"
+    },
+    {
+      "label": "光巢社群",
+      "target": "#membership"
+    }
+  ],
+  "products": [
+    {
+      "name": "云朵初见",
+      "category": "日常营养款",
+      "selectorLabel": "轻松日常",
+      "railLabel": "ROUTINE",
+      "accent": "#5667b8",
+      "image": "media/product-family.png",
+      "points": [
+        {
+          "label": "轻盈好入口",
+          "detail": "把营养放进每个平常日子"
+        },
+        {
+          "label": "温和融入日常",
+          "detail": "照顾节奏，也照顾心情"
+        },
+        {
+          "label": "陪伴每个阶段",
+          "detail": "从今天开始，慢慢长大"
+        }
+      ]
+    },
+    {
+      "name": "晨光启程",
+      "category": "均衡成长款",
+      "selectorLabel": "均衡营养",
+      "railLabel": "BALANCE",
+      "accent": "#26a88a",
+      "image": "media/product-family.png",
+      "points": [
+        {
+          "label": "均衡配方思路",
+          "detail": "让每一次准备都更从容"
+        },
+        {
+          "label": "一餐一份安心",
+          "detail": "把认真放在看得见的地方"
+        },
+        {
+          "label": "轻松衔接成长",
+          "detail": "跟着每一天的节奏前进"
+        }
+      ]
+    },
+    {
+      "name": "森林守护",
+      "category": "进阶照料款",
+      "selectorLabel": "细致照料",
+      "railLabel": "CARE",
+      "accent": "#0f5cca",
+      "image": "media/product-family.png",
+      "points": [
+        {
+          "label": "细致照料每一天",
+          "detail": "从小小需要开始回应"
+        },
+        {
+          "label": "轻松衔接节奏",
+          "detail": "陪孩子走自己的成长路"
+        },
+        {
+          "label": "把安心留身边",
+          "detail": "每一次选择都值得被看见"
+        }
+      ]
+    },
+    {
+      "name": "晴日经典",
+      "category": "家庭常备款",
+      "selectorLabel": "性价比首选",
+      "railLabel": "CLASSIC",
+      "accent": "#e74454",
+      "image": "media/product-family.png",
+      "points": [
+        {
+          "label": "简单而可靠",
+          "detail": "把日常照料变成好习惯"
+        },
+        {
+          "label": "适合家庭日常",
+          "detail": "一份准备，全家都安心"
+        },
+        {
+          "label": "陪伴不必复杂",
+          "detail": "从每一个今天开始"
+        }
+      ]
+    }
+  ],
+  "journey": {
+    "eyebrow": "THE PROOF BEHIND THE CHOICE",
+    "titleLine": "好的选择，",
+    "titleAccent": "从看得见开始",
+    "subtitle": "从一份安心的准备，到每一次认真回应，照料被看见，也被记住。",
+    "cards": [
+      {
+        "eyebrow": "01 / SOURCE",
+        "title": "从一片土地开始",
+        "detail": "自然的丰盛，成为日常的底色",
+        "image": "media/testimonial-breakfast.png"
+      },
+      {
+        "eyebrow": "02 / CARE",
+        "title": "每个细节有回应",
+        "detail": "认真听见每一次小小需要",
+        "image": "media/testimonial-reading.png"
+      },
+      {
+        "eyebrow": "03 / RESEARCH",
+        "title": "把复杂说清楚",
+        "detail": "让看不见的认真也值得信赖",
+        "image": "media/product-family.png"
+      },
+      {
+        "eyebrow": "04 / MAKING",
+        "title": "把标准做扎实",
+        "detail": "让每一份陪伴都有迹可循",
+        "image": "media/ip-playground.png"
+      }
+    ]
+  },
+  "proof": {
+    "eyebrow": "REAL FAMILY NOTES",
+    "titleLine": "安心，落在每一天，",
+    "titleAccent": "也陪伴每一个宝宝成长",
+    "subtitle": "以下内容为虚构示例。正式发布前，请替换为已获授权的真实消费者故事与图片。",
+    "stories": [
+      {
+        "title": "从容的早餐",
+        "caption": "虚构示例用户 · 仅用于演示",
+        "image": "media/testimonial-breakfast.png",
+        "alt": "虚构示例：家长与孩子一起准备早餐"
+      },
+      {
+        "title": "一起读完一页",
+        "caption": "虚构示例用户 · 仅用于演示",
+        "image": "media/testimonial-reading.png",
+        "alt": "虚构示例：家长与孩子一起阅读"
+      },
+      {
+        "title": "在花园散步",
+        "caption": "虚构示例用户 · 仅用于演示",
+        "image": "media/testimonial-garden.png",
+        "alt": "虚构示例：家长与孩子在花园散步"
+      },
+      {
+        "title": "一起做手工",
+        "caption": "虚构示例用户 · 仅用于演示",
+        "image": "media/testimonial-craft.png",
+        "alt": "虚构示例：家长与孩子一起做手工"
+      },
+      {
+        "title": "厨房里的小帮手",
+        "caption": "虚构示例用户 · 仅用于演示",
+        "image": "media/testimonial-breakfast-2.png",
+        "alt": "虚构示例：家长与孩子在厨房共享早餐"
+      },
+      {
+        "title": "睡前再读一页",
+        "caption": "虚构示例用户 · 仅用于演示",
+        "image": "media/testimonial-reading-2.png",
+        "alt": "虚构示例：家长与孩子在客厅阅读绘本"
+      }
+    ]
+  },
+  "ipScene": {
+    "eyebrow": "THE IP ASSET",
+    "titleLine": "光巢一家，",
+    "titleAccent": "陪你一起长大",
+    "subtitle": "把每一次探索、陪伴和好奇，都变成孩子愿意亲近的品牌角色。",
+    "sticker": "A LITTLE WORLD",
+    "stageTitle": "云朵狐与圆圆雀的成长游乐场",
+    "stageSubtitle": "MOVE THROUGH THE STORY",
+    "gallery": [
+      {
+        "title": "一起发现",
+        "cardTitle": "发现新鲜",
+        "eyebrow": "FAMILY MOMENTS",
+        "copy": "从日常出发，把陪伴变成可以被看见的快乐。",
+        "image": "media/ip-playground.png"
+      },
+      {
+        "title": "种下一点好奇",
+        "cardTitle": "花园探险",
+        "eyebrow": "GROW TOGETHER",
+        "copy": "把小小好奇种进日常，等它慢慢长成新的发现。",
+        "image": "media/ip-greenhouse.png"
+      },
+      {
+        "title": "抬头看星星",
+        "cardTitle": "今晚观测",
+        "eyebrow": "LOOK UP",
+        "copy": "和喜欢的人一起仰望，想象力就有了方向。",
+        "image": "media/ip-telescope.png"
+      },
+      {
+        "title": "轻轻出发",
+        "cardTitle": "一起出发",
+        "eyebrow": "SET OFF TOGETHER",
+        "copy": "带着想象力出发，今天也有新的风景。",
+        "image": "media/ip-meadow.png"
+      },
+      {
+        "title": "一起长大",
+        "cardTitle": "今天也发光",
+        "eyebrow": "SHINE TODAY",
+        "copy": "不用急着长大，和喜欢的人一起向前就好。",
+        "image": "media/ip-starforth.png"
+      }
+    ]
+  },
+  "membership": {
+    "eyebrow": "LUMI NEST CIRCLE",
+    "titleLine": "加入光巢社群，",
+    "titleAccent": "让每一次成长都有回应",
+    "subtitle": "从一次加入开始，把每一个值得被记住的时刻接住并延续下去。",
+    "pointsEyebrow": "MEMBERSHIP IN MOTION",
+    "pointsTitle": "收集的每一个积分，",
+    "pointsAccent": "都在回应成长",
+    "pointsSubtitle": "从一次加入开始，把陪伴变成看得见的日常。",
+    "qrLabel": "扫码加入",
+    "logoLabel": "此处可以放logo动画图",
+    "journeyImage": "media/membership-levels.png",
+    "levels": [
+      {
+        "name": "初见会员",
+        "copy": "从加入开始，解锁属于每个家庭的成长陪伴。",
+        "time": 0.02
+      },
+      {
+        "name": "同行会员",
+        "copy": "每一次陪伴，都有更丰富的社群回应。",
+        "time": 1.0
+      },
+      {
+        "name": "发光会员",
+        "copy": "把重要的成长时刻，收藏成更好的日常。",
+        "time": 2.0
+      }
+    ],
+    "benefitsTitle": "加入光巢社群，享受专属权益",
+    "benefitsCount": "6 种陪伴方式",
+    "benefitGroups": [
+      {
+        "eyebrow": "GROWTH",
+        "title": "成长礼遇",
+        "subtitle": "每一次升级，都有一份值得期待的回应。",
+        "items": [
+          {
+            "title": "积分兑换",
+            "detail": "积累积分，兑换实用好礼"
+          },
+          {
+            "title": "生日礼",
+            "detail": "专属生日惊喜，准时送达"
+          },
+          {
+            "title": "成长记录",
+            "detail": "把值得记住的日常收藏起来"
+          }
+        ]
+      },
+      {
+        "eyebrow": "TOGETHER",
+        "title": "专属陪伴",
+        "subtitle": "从专业内容到真实连接，把日常照顾变得更安心。",
+        "items": [
+          {
+            "title": "社群活动",
+            "detail": "和同频家庭交换生活灵感"
+          },
+          {
+            "title": "尝鲜礼",
+            "detail": "抢先体验新鲜内容与好物"
+          },
+          {
+            "title": "成长知识",
+            "detail": "陪你轻松理解每一个阶段"
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "descriptor": "一个关于日常照料、温柔成长与彼此回应的虚构品牌故事。",
+    "copyright": "FICTIONAL DEMO · REPLACE BEFORE PUBLISHING"
+  }
+}
